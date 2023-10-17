@@ -1,0 +1,13 @@
+
+<resources>
+    <string name="app_name">My Biodata</string>
+    <string name="nama1">Wi Ha-Jon</string>
+    <string name="alamat1">Sleman, Daerah Istimewa Yogyakarta</string>
+    <string name="nama2">Ong Seung Woo</string>
+    <string name="alamat2">Kota Yogyakarta, Daerah Istimewa Yogyakarta</string>
+    <string name="nama3">Suga</string>
+    <string name="alamat3">Bantul, Daerah Istimewa Yogyakarta</string>
+    <string name="nama4">Mega</string>
+    <string name="alamat4">Klaten, Jawa Tengah</string>
+
+</resources>
